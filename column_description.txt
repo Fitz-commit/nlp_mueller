@@ -1,0 +1,6 @@
+[0] target: polarity of the tweet
+    (0 = negative, 2 = neutral, 4 = positive)
+[1] ids: id of the tweet
+[2] date: date of the tweet
+[3] user: user that tweeted
+[4] text: text of the tweet
